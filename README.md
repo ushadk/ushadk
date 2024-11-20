@@ -1,3 +1,4 @@
+![logo](https://github.com/ushadk/ushadk/blob/main/Purple%20Gamer%20Girl%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Usha D K</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
